@@ -1,1 +1,1 @@
-# deep_learning_cirrhosis_prediction
+# deep_learning_diabetes_prediction
